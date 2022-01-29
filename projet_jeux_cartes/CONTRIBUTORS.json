@@ -1,0 +1,35 @@
+{
+  "group" : "G01",
+  "members" : [
+    {
+      "login" : "zidw",
+      "firstname" : "Wassim",
+      "lastname" : "ZID",
+      "email" : " zidwassim@gmail.com"
+    },
+    {
+      "login" : "schellm",
+      "firstname" : "Maude",
+      "lastname" : "Schell",
+      "email" : "maude.schell@gmail.com"
+    },
+    {
+      "login" : "murguea",
+      "firstname" : "Amandine",
+      "lastname" : "MURGUE",
+      "email" : "murgue.amandine@gmail.com"
+    },
+    {
+      "login" : "nassims",
+      "firstname" : "sara",
+      "lastname" : "NASSIM",
+      "email" : "saranassimm@gmail.com"
+    },
+    {
+      "login" : "xx",
+      "firstname" : "xx",
+      "lastname" : "xx",
+      "email" : "saranassimm@gmail.com"
+    }
+  ]
+}
